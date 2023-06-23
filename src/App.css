@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+.App{
+  height: 100vh;
+}
+.phonebook {
+  position: relative;
+    height: 90vh;
+    width: 400px;
+    margin: auto;
+    padding-top: 20px;
+    box-sizing: border-box;
+    background-color: rgb(241,241,241);
+    border-radius: 20px
+}

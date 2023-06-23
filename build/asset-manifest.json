@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Perumandla-Mamatha/PhoneBookApp.git/static/css/main.2fcc06a6.css",
+    "main.js": "/Perumandla-Mamatha/PhoneBookApp.git/static/js/main.848f0ece.js",
+    "static/js/787.f3d7924f.chunk.js": "/Perumandla-Mamatha/PhoneBookApp.git/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/Perumandla-Mamatha/PhoneBookApp.git/index.html",
+    "main.2fcc06a6.css.map": "/Perumandla-Mamatha/PhoneBookApp.git/static/css/main.2fcc06a6.css.map",
+    "main.848f0ece.js.map": "/Perumandla-Mamatha/PhoneBookApp.git/static/js/main.848f0ece.js.map",
+    "787.f3d7924f.chunk.js.map": "/Perumandla-Mamatha/PhoneBookApp.git/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fcc06a6.css",
+    "static/js/main.848f0ece.js"
+  ]
+}
